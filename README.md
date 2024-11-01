@@ -20,6 +20,4 @@ SuperStore Sales Report.pdf: A detailed Power BI report showcasing visualization
 # <span style="font-size:larger;">Technologies Used:</span>
 1. Power BI: Data visualization and dashboard creation tool.
 2. Data Processing: Data cleaning, transformation, and aggregation within Power BI.
-# <span style="font-size:larger;">How to Use This Report:</span>
-Review the PDF report for visual summaries of key metrics.
-Use insights on sales performance, profit distribution, and regional strengths to support data-driven business decisions.
+
