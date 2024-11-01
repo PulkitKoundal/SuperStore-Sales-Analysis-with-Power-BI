@@ -3,7 +3,6 @@
 This repository contains a Power BI report analyzing sales data for a retail SuperStore. The interactive dashboard provides insights into sales, profit trends, regional performance, and shipping efficiency across different categories and timeframes.
 
 # <span style="font-size:larger;">Key Insights:</span>
-# <span style="font-size:medium;">Sales by Category and Sub-Category:</span>
 Sales by Category and Sub-Category:
 Visualizes sales distribution across main categories (Office Supplies, Technology, Furniture) and sub-categories, identifying top-performing products.
 
